@@ -1,6 +1,6 @@
 # Design & Implementation of E2E Pipeline using Snowflake and Tableau
 ## Dataset Source: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
-## Tableau: https://public.tableau.com/shared/KDNSRZMG6?:display_count=n&:origin=viz_share_link
+## Tableau: https://public.tableau.com/app/profile/angel.lanto/viz/HouseholdElectricPowerConsumption/Dashboard
 ## Snowflake: https://app.snowflake.com/viyauhd/av36986/w3Yd7aRtDrHP#query
 ### Business Intelligence | Individual Assignment Grade: 94/100
 ### Professor Comment:
